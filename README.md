@@ -16,7 +16,7 @@ The dataset contains 50000 booking sessions with 14 features,includig:
 ## Key challenge: Data imbalance
 A significant finding from the EDA is the severe imbalance in our target variable,'booking_complete'.
 
-##Data Preparation strategy
+## Data Preparation strategy
  -Encoding
  -Scaling
  -Balancing
